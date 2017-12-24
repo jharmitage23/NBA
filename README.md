@@ -1,2 +1,2 @@
 # NBA
-NBA data
+NBA data generated via web scraping
